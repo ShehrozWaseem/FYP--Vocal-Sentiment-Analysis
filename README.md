@@ -10,5 +10,6 @@ Dataset: https://www.kaggle.com/datasets/abaadmurtaza/urdu-emotion-speech-datase
 
 
 # CODE REPOSITORIES:
-Back-End: https://github.com/ShehrozWaseem/Vocal-Sentiment-Analysis
-Front-End: https://github.com/ShehrozWaseem/UI-VSA
+
+**Back-End:** https://github.com/ShehrozWaseem/Vocal-Sentiment-Analysis
+**Front-End:** https://github.com/ShehrozWaseem/UI-VSA
